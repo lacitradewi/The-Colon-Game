@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Hospital.unity
+  isLoaded: 1
+  isActive: 1

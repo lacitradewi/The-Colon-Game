@@ -1,0 +1,37 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     806 MB
+    Driver:   9.17.10.2875
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Citra\Documents\The Colon V1\thecolon2017_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Flowchart
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LeanTween
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.

@@ -1,0 +1,45 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon\try_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Citra\Documents\The Colon\try_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.055 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Citra\Documents\The Colon\try_Data\Managed\System.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 1.055704 ms (FindLiveObjects: 0.133887 ms CreateObjectMapping: 0.055980 ms MarkObjects: 0.831314 ms  DeleteObjects: 0.033121 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.038166 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 560.
+Total: 0.357343 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.028456 ms MarkObjects: 0.291100 ms  DeleteObjects: 0.016327 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 560.
+Total: 0.282702 ms (FindLiveObjects: 0.021459 ms CreateObjectMapping: 0.021925 ms MarkObjects: 0.229054 ms  DeleteObjects: 0.009796 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6b0 -> priority: 1 
+  Thread -> id: bdc -> priority: 1 
